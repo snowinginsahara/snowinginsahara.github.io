@@ -1,3 +1,7 @@
+---
+title: test
+---
+
 # Welcome to the awesome web shop
 
 Buy stuff from Morocoo here!
