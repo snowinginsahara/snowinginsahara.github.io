@@ -4,6 +4,7 @@ Buy stuff from Morocoo here!
 
 ## Carpets
 ![useful image](/assets/carpet.jpg)
+
 we have some **great** ones
 
 ## Table cloth
