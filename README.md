@@ -3,7 +3,7 @@
 Buy stuff from Morocoo here!
 
 ## Carpets
-![useful image]({{ site.url }}/assets/carpet.jpg)
+![useful image](/assets/carpet.jpg)
 we have some **great** ones
 
 ## Table cloth
